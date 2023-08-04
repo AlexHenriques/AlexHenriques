@@ -1,8 +1,5 @@
 ### Hi, I'm Alex 👋
 
-<!--
-**AlexHenriques/AlexHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📅 May 26, 2023, marks the day I started my journey with Python. As a self-proclaimed noob, I'm eagerly counting the days since then! (Update: I'm still working on that days counter, but maybe I'll get it soon!)
 
 🚀 Motto: Efficacy and Effectiveness.
@@ -20,3 +17,6 @@
 💼 My ultimate goal is to become a data analyst and/or scientist in the health field.
 
 ⚡ Fun fact: Besides coding, I'm a health enthusiast and a firm believer in the power of data-driven insights to improve well-being.
+
+<!--
+**AlexHenriques/AlexHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

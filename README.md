@@ -14,7 +14,7 @@
 
 🌱 Currently, I'm honing my skills in Python and SQL, and I'm also enrolled in the Google Data Analytics Course.
 
-💼 My ultimate goal is to become a data analyst and/or scientist in the health field.
+💼 My ultimate goal is to become a data analyst and/or scientist in the healthcare.
 
 ⚡ Fun fact: Besides coding, I'm a health enthusiast and a firm believer in the power of data-driven insights to improve well-being.
 

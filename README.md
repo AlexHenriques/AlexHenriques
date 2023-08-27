@@ -18,5 +18,7 @@
 
 ⚡ Fun fact: Besides coding, I'm a health enthusiast and a firm believer in the power of data-driven insights to improve well-being.
 
+🌟 Interests:  Delving into intricate multivariate analyses, encompassing comprehensive data integration within models, and exploring Bayesian statistics.
+
 <!--
 **AlexHenriques/AlexHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
